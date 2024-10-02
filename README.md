@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=87CEEB&height=200&section=header&text=Songyi's%20Github&fontSize=90&textColor=ffffff&animation=blink" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FC6C85&height=200&section=header&text=Songyi's%20Github&fontSize=90&textColor=ffffff&animation=blink" />
 </div>
 
 <div align="center"> <h2 style="font-size: 40px; margin-bottom: 20px;">:boom: My Skills :boom:</h2></div>
