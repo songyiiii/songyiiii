@@ -16,9 +16,4 @@
 ![HTML5](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge)
-![HTML5]()
-![HTML5]()
-![HTML5]()
-![HTML5]()
-
+![HTML5]([https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white))
