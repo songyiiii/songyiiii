@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=87CEEB&height=200&section=header&text=Songyi's%20Github&fontSize=90&textColor=ffffff&animation=blink)
-<div align="center"> ## :boom: I used these Skills :boom: </div>
+<div align="center"> <h2 style="font-size: 40px; margin-bottom: 20px;">:boom: My Skills :boom:</h2></div>
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
