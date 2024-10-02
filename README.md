@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=skyblue&height=300&section=header&text=Songyi's%20Github&fontSize=90&textColor=white)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=blue&height=300&section=header&text=Songyi's%20Github&fontSize=90&textColor=white)
 
 <!---
 songyiiii/songyiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
